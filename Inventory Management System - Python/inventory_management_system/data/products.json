@@ -1,0 +1,22 @@
+[
+    {
+        "type": "electronics",
+        "product_id": "E001",
+        "name": "Mouse Wireless Logitech M170",
+        "category": "Aksesoris Komputer",
+        "price": 150000.0,
+        "stock": 20,
+        "minimum_stock": 10,
+        "warranty_period": 12
+    },
+    {
+        "type": "food",
+        "product_id": "F001",
+        "name": "Mie Instan Indomie Goreng",
+        "category": "Makanan",
+        "price": 3000.0,
+        "stock": 25,
+        "minimum_stock": 50,
+        "expiry_date": "2026-12-31"
+    }
+]
